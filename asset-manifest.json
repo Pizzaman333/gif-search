@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gif-search/static/css/main.419a68ba.css",
+    "main.js": "/gif-search/static/js/main.980a7499.js",
+    "index.html": "/gif-search/index.html",
+    "main.419a68ba.css.map": "/gif-search/static/css/main.419a68ba.css.map",
+    "main.980a7499.js.map": "/gif-search/static/js/main.980a7499.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.419a68ba.css",
+    "static/js/main.980a7499.js"
+  ]
+}
